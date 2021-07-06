@@ -1,5 +1,5 @@
 # Seeker
-SUID &amp; GUID Exploit Seeker
+SUID &amp; GUID Exploit Seeker based on GTFOBins.
 ```bash
                _             
  ___  ___  ___| | _____ _ __ 
